@@ -2,6 +2,7 @@
   "name": "tj3-language-support",
   "displayName": "tj3-language-support",
   "description": "Language support for tj3 syntax",
+  "repository": "https://github.com/nanquanu/tj3-vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
@@ -19,7 +20,7 @@
     "grammars": [{
       "language": "tj3",
       "scopeName": "source.tj3",
-      "path": "./syntaxes/tj3.tmLanguage"
+      "path": "./syntaxes/tj3.tmLanguage.json"
     }]
   }
 }
