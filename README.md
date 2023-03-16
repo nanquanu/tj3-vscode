@@ -19,8 +19,6 @@ This extension adds language support for TaskJuggler 3 files, ending in `.tjp` a
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 0.0.1
 
 Alpha release
